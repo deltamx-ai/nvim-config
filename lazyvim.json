@@ -1,0 +1,25 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.mini-surround",
+    "lazyvim.plugins.extras.dap.core",
+    "lazyvim.plugins.extras.editor.illuminate",
+    "lazyvim.plugins.extras.editor.inc-rename",
+    "lazyvim.plugins.extras.editor.refactoring",
+    "lazyvim.plugins.extras.formatting.prettier",
+    "lazyvim.plugins.extras.lang.angular",
+    "lazyvim.plugins.extras.lang.json",
+    "lazyvim.plugins.extras.lang.tailwind",
+    "lazyvim.plugins.extras.lang.typescript",
+    "lazyvim.plugins.extras.lang.typescript.oxc",
+    "lazyvim.plugins.extras.lang.typescript.vtsls",
+    "lazyvim.plugins.extras.test.core",
+    "lazyvim.plugins.extras.ui.treesitter-context",
+    "lazyvim.plugins.extras.util.mini-hipatterns",
+    "lazyvim.plugins.extras.util.project"
+  ],
+  "install_version": 8,
+  "news": {
+    "NEWS.md": "11866"
+  },
+  "version": 8
+}
